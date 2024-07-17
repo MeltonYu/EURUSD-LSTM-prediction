@@ -1,0 +1,11 @@
+EUR/USD: ohlc、tech factor
+
+DXY
+
+interest rate diff
+
+gold price
+
+FED rate
+
+derivatives: forward、swap points、option iv.  
